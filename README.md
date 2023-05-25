@@ -5,4 +5,4 @@ Bakıma aldığınız takdirde, bazı oyuncuların girişini Sunucunuzda duyuru 
 # ALTYAPI
 Gerektirmiyor.
 # ENTEGRASYON DURUMU
-Bir entegrasyon gerektirmeden, Kurduğunuz anda çalışabilecek bir eklenti. Dileyen kişiler kendisinde bulunan herhangi bir eklentinin SERVER Eklentisi olmak koşuluyla kodu içerisine yazarabilir. Bir sorun çıkarmaz.
+Bir entegrasyon gerektirmeden, Kurduğunuz anda çalışabilecek bir eklenti. Dileyen kişiler kendisinde bulunan herhangi bir eklentinin SERVER Eklentisi olmak koşuluyla kodu içerisine yazabilir. Bir sorun çıkarmaz.
