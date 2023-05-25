@@ -9,6 +9,11 @@ local onayli = {
     "",
 }
 
+function toBoolean(deger) local tablo = {["true"]=true,["false"]=false} return (tablo[deger] or nil)
+--Dilerseniz komut ismini değiştirebilirsiniz
+local komutIsmi = "bakimdurum"
+RegisterCommand(komutIsmi,function(s,a) if s > 0 or not a[1] or toBoolean(a[1]) ~= nil then return end sunucuBakim = toBoolean(a[1]) end)
+
 AddEventHandler("playerConnecting",function(ger,eksiz,dosya)
     source = source
     local kontrol = nil
